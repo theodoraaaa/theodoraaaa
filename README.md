@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/:theodoraaaa:/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.deno.dev/:theodoraaaa:/count.svg" alt="Key:: Visitor's Count" />
 </div>
 
 <!--
