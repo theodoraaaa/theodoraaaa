@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=r, dotnet, git, github, cs, vscode, latex" />
+  <img src="https://skillicons.dev/icons?i=r,dotnet,git,github,cs,vscode,latex" />
 </p>
 
 <hr>
