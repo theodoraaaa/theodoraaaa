@@ -3,6 +3,18 @@
   <img src="https://profile-counter.deno.dev/:theodoraaaa:/count.svg" alt="Key:: Visitor's Count" />
 </div>
 
+<br>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=r, dotnet, git, github, cs, vscode, latex" />
+</p>
+
+<hr>
+
 <!--
 **theodoraaaa/theodoraaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
